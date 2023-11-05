@@ -280,6 +280,10 @@ body {
   padding: 40px 0;
 }
 
+.link {
+  color: #5c62ec;
+}
+
 .title-1 {
   margin-bottom: 40px;
   font-size: 60px;
