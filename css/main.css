@@ -101,6 +101,10 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+.link {
+  color: #5c62ec;
+}
+
 .nav-list-link {
   color: var(--header-text);
   transition: opacity 0.2s ease-in;
@@ -279,6 +283,7 @@ body {
 .section {
   padding: 40px 0;
 }
+
 
 .title-1 {
   margin-bottom: 40px;
